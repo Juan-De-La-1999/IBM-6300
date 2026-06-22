@@ -1,0 +1,137 @@
+---
+title: "ITP-Shopify Store - Assignment 1 - Shopify Orientation and Admin Exploration"
+author: "Juan De La Cruz-Calderon"
+date: today
+format:
+  html:
+    toc: true
+    toc-depth: 4
+    number-sections: true
+    code-link: true
+    embed-resources: true
+    code-tools: true
+theme: cosmo
+editor: visual
+execute:
+  echo: false
+  warning: false
+  message: false
+  freeze: auto
+---
+
+# Introduction
+
+This report documents my completion of the Shopify Orientation and Admin Exploration assignment. The purpose of this activity was to become familiar with Shopify as a major e-commerce platform, explore the Shopify administrative dashboard, and understand how online retailers manage products, customers, orders, marketing activities, and analytics. Through the assigned Shopify Academy learning materials and hands-on exploration of the Shopify Admin area, I gained a better understanding of how businesses use Shopify to support e-commerce operations.
+
+> Shopify is a cloud-based e-commerce platform that enables businesses to create, manage, and grow online stores through an integrated system of retail management tools.
+
+::: callout-note
+## Assignment Objective
+
+The objective of this assignment was to complete introductory Shopify learning materials, explore the Shopify Admin interface, and reflect on how Shopify can support online retail businesses such as the CPP Farm Store.
+:::
+
+# Evidence of Shopify Learning Completion
+
+## Completed Learning Activities
+
+As part of this assignment, I completed the Shopify Academy learning materials assigned for Week 3. These activities introduced the fundamentals of Shopify and provided an overview of the tools available within the Shopify ecosystem.
+
+The completed learning activities included:
+
+-   Introduction to Shopify
+-   Navigating the Shopify Admin
+-   Developing on Shopify
+-   Shopify Admin Guided Tour
+
+These modules provided an overview of Shopify’s e-commerce platform, store management capabilities, and administrative interface. The lessons demonstrated how businesses can manage products, customers, orders, inventory, marketing campaigns, and analytics from a centralized dashboard.
+
+## Learning Reflection
+
+The Shopify learning materials helped me understand how online retail businesses operate using a modern e-commerce platform. I learned that Shopify simplifies many aspects of running an online store by integrating product management, customer management, order processing, marketing, and reporting tools into a single system. The guided tour was especially helpful because it provided a practical overview of the Shopify Admin interface and showed how merchants navigate different sections of the platform.
+
+# Shopify Admin Exploration
+
+## Accessing the Shopify Admin Dashboard
+
+After completing the assigned Shopify learning materials, I accessed the Shopify Admin dashboard and explored its primary features and navigation tools. The Shopify Admin serves as the central management system for an online store, allowing merchants to oversee products, customers, orders, marketing activities, analytics, and store settings from a single interface.
+
+The dashboard is organized into clearly labeled sections that make it easy for users to navigate and manage different aspects of their business. During my exploration, I reviewed several of the available tools and gained a better understanding of how Shopify supports day-to-day retail operations.
+
+::: callout-tip
+## Observation
+
+One of Shopify’s greatest strengths is its ability to centralize multiple business functions into a single platform. Merchants can manage inventory, monitor sales performance, process orders, and communicate with customers without needing multiple separate systems.
+:::
+
+## Initial Impressions
+
+My overall impression of the Shopify Admin was positive. The interface is clean, organized, and user-friendly. The navigation menu provides quick access to important business functions, and the dashboard presents information in a way that is easy to understand. Even for someone with limited experience using e-commerce platforms, Shopify appears approachable and efficient for managing an online retail business.
+
+# Important Shopify Features
+
+## Products
+
+The Products feature allows merchants to create, edit, and manage the items available for sale in their online store. Store owners can add product titles, descriptions, images, prices, inventory quantities, and product variants such as size or color. This feature is essential because it provides customers with accurate information and helps businesses maintain organized inventory records.
+
+## Collections
+
+Collections help merchants organize products into categories, making it easier for customers to browse and locate items. For example, a retail business could create collections for seasonal products, best sellers, or specific product types. Collections improve the customer shopping experience by making store navigation more efficient.
+
+## Orders
+
+The Orders section allows merchants to track customer purchases and manage order fulfillment. Businesses can review order details, update shipping information, process returns, and monitor transaction status. Effective order management helps ensure timely delivery and customer satisfaction.
+
+## Customers
+
+The Customers feature stores information about shoppers, including contact details and purchase history. Businesses can use this information to provide better customer service, identify loyal customers, and create targeted marketing campaigns. Maintaining customer records helps build stronger long-term relationships.
+
+## Analytics
+
+Analytics provides valuable insights into store performance through reports and data visualization tools. Merchants can track sales, website traffic, customer behavior, and conversion rates. These insights help businesses make informed decisions and identify opportunities for growth.
+
+## Additional Shopify Features
+
+### Marketing
+
+Shopify includes built-in marketing tools that help businesses promote products through email campaigns, social media channels, and digital advertising. These tools can increase visibility and drive additional traffic to the online store.
+
+### Discounts
+
+The Discounts feature allows merchants to create promotional offers such as coupon codes, percentage discounts, and free shipping incentives. Discounts can encourage purchases, increase sales, and improve customer retention.
+
+### Apps
+
+Shopify's App Store provides access to thousands of third-party applications that extend the platform's functionality. Businesses can install apps for inventory management, customer support, shipping, accounting, and advanced analytics.
+
+### Navigation
+
+Navigation tools allow merchants to create menus and organize store content. Well-designed navigation improves the customer experience by helping visitors quickly find products and information.
+
+## Shopify Feature Summary
+
+| Feature | Purpose | Benefit |
+|------------------------|------------------------|------------------------|
+| Products | Manage product information and inventory | Accurate product listings |
+| Collections | Organize products into categories | Improved store navigation |
+| Orders | Track purchases and fulfillment | Efficient order management |
+| Customers | Manage customer information | Stronger customer relationships |
+| Analytics | Monitor business performance | Data-driven decision making |
+
+# CPP Farm Store Application Reflection
+
+Shopify could be a valuable platform for the CPP Farm Store because it provides the tools necessary to manage both online and in-person retail operations efficiently. The platform would allow the Farm Store to showcase products, organize inventory, process customer orders, and communicate with shoppers through a centralized system. Shopify’s collections feature could be used to organize products into categories such as fresh produce, seasonal items, and specialty products. In addition, the analytics tools would help the Farm Store track sales trends, customer behavior, and overall business performance. Marketing and discount features could also be used to promote special events, seasonal offerings, and limited-time promotions. Overall, Shopify offers a flexible and scalable solution that could help the CPP Farm Store expand its reach and improve the customer shopping experience.
+
+# Appendix
+
+## Shopify Certifications 
+
+![](images/Screenshot 2026-06-21 192137.png)
+
+## GitHub Repository
+
+<https://github.com/Juan-De-La-1999/IBM-6300.git>
+
+## GitHub Pages Website
+
+Add your GitHub Pages URL below:
