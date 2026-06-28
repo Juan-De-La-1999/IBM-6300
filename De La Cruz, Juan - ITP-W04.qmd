@@ -1,0 +1,98 @@
+---
+title: "ITP-W04-Shopify Store - Assignment 2 - Store Concept and Initial Shopify Setup"
+author: "Juan De La Cruz"
+date: today
+format:
+  html:
+    toc: true
+    toc-depth: 4
+    number-sections: true
+    code-link: true
+    embed-resources: true
+    theme: darkly
+    code-fold: true
+    code-tools: true
+editor: visual
+execute:
+  freeze: auto
+---
+
+# Store Name and Concept
+
+## Store Name
+
+**Juanito's Card Vault**
+
+## Store Concept
+
+Juanito's Card Vault is a practice Shopify store specializing in Pokémon Trading Card Game products. The store sells booster packs, Elite Trainer Boxes, single cards, graded collectibles, and card accessories such as sleeves, binders, deck boxes, and playmats. The purpose of the store is to create a clean and organized online shopping experience for Pokémon collectors, players, and fans.
+
+> This store is created for educational purposes only. It does not process real payments or real transactions.
+
+::: callout-note
+Juanito's Card Vault is a fake retail store concept created for this Shopify assignment.
+:::
+
+# Target Customer
+
+The target customer for **Juanito's Card Vault** is Pokémon fans, trading card collectors, and Trading Card Game (TCG) players. Most customers are between the ages of **13 and 40** and enjoy collecting rare cards, building competitive decks, or purchasing Pokémon products as gifts.
+
+These customers value authentic products, organized product categories, competitive prices, and an easy online shopping experience. Many are students, young adults, parents, or hobby enthusiasts who enjoy keeping up with the newest Pokémon TCG releases and expanding their collections.
+
+## Target Customer Characteristics
+
+-   **Age:** 13–40 years old
+
+-   **Interests:** Pokémon, trading card games, collecting, gaming
+
+-   **Shopping Behavior:** Shops online for convenience and product variety
+
+-   **Lifestyle:** Students, young professionals, collectors, and hobbyists
+
+-   **Buying Motivation:** Collect rare cards, build decks, or purchase gifts
+
+::: callout-tip
+Understanding the target customer helps determine which products to offer, how to organize the store, and how to create a better shopping experience.
+:::
+
+# Product Category Plan
+
+Juanito's Card Vault will offer a variety of Pokémon Trading Card Game products organized into the following categories.
+
+| Product Category | Example Products | Purpose |
+|----|----|----|
+| Booster Packs | Scarlet & Violet Booster Packs, Journey Together Booster Packs | Allows customers to expand their collections and discover new cards. |
+| Elite Trainer Boxes | Scarlet & Violet ETBs, special collection boxes | Provides premium products that include booster packs and accessories. |
+| Single Cards | Charizard ex, Pikachu, rare holographic cards | Helps collectors and players purchase specific cards they need. |
+| Graded Cards | PSA 10 Pikachu, PSA 9 Charizard | Offers professionally graded collectible cards for serious collectors. |
+| Card Accessories | Card sleeves, binders, deck boxes, playmats | Protects and organizes customers' card collections. |
+
+::: callout-note
+Organizing products into categories makes the store easier to navigate and helps customers quickly find the items they are looking for.
+:::
+
+# Inital Shopify Setup Evidence
+
+#  ![](images/Screenshot 2026-06-28 151446.png)
+
+![](images/Screenshot 2026-06-28 151435.png)
+
+![](images/Screenshot 2026-06-28 151418.png)
+
+# Connection to CPP Farm Store
+
+Although Juanito's Card Vault is a practice Shopify store that sells Pokémon Trading Card Game products, many of the same retail principles can be applied to the CPP Farm Store consulting project. Creating this store helped me understand the importance of identifying a target customer, organizing products into clear categories, and designing an easy-to-navigate online storefront.
+
+For example, just as Pokémon collectors benefit from clearly organized categories such as booster packs, single cards, and accessories, customers shopping at the CPP Farm Store would benefit from categories such as fresh produce, baked goods, gifts, and seasonal products. A well-designed Shopify store also helps create a strong brand identity, improves the customer shopping experience, and makes it easier for customers to find the products they are looking for. This assignment demonstrated how thoughtful store organization and design can support the success of many different types of retail businesses.
+
+# Appendix
+
+## GitHub Page
+
+**GitHub Pages URL:**\
+[https://your-github-pages-link](https://your-github-pages-link/)
+
+## GitHub Repository
+
+**GitHub Repository URL:**\
+<https://github.com/your-username/your-repository>
