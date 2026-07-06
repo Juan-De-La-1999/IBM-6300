@@ -1,0 +1,185 @@
+---
+title: "ITP-W05-Shopify Store - Assignment 3 - Product Catalog Development"
+author: "Juan De La Cruz"
+date: today
+format:
+  html:
+    theme: darkly
+    toc: true
+    toc-depth: 4
+    toc-expand: true
+    number-sections: true
+    code-link: true
+    code-fold: true
+    code-tools: true
+    code-overflow: wrap
+    embed-resources: true
+editor: visual
+execute:
+  freeze: auto
+  echo: false
+  warning: false
+  message: false
+---
+
+# Introduction
+
+Welcome to **Juanito's Card Vault**, a Shopify store specializing in Pokémon Trading Card Game (TCG) products. This product catalog demonstrates how products can be organized with clear information to help customers browse, compare, and purchase items more easily.
+
+A product catalog is more than just a list of products. It provides customers with useful information such as pricing, descriptions, inventory, and images that help them make informed purchasing decisions.
+
+::: callout-note
+## Assignment Objective
+
+This report demonstrates the development of a Shopify product catalog containing twelve Pokémon-themed products. It also explains the assortment strategy used in the store and discusses how these ideas could be applied to CPP Farm Store.
+:::
+
+> A well-organized product catalog helps customers compare products, understand their value, and make confident purchasing decisions.
+
+# Product List
+
+The table below lists the products that were added to my Shopify practice store.
+
+| Product | Price | Inventory | Category |
+|:-----------------------------------|-----------:|-----------:|:-----------|
+| Pokémon Destined Rivals Team Rocket Mewtwo ex Raw Single Card | \$299.99 | 10 | Gaming Cards |
+| Pokémon Destined Rivals Elite Trainer Box | \$59.99 | 5 | Gaming Cards |
+| Pokémon Pikachu Surging Sparks ex Raw Single Card | \$74.99 | 5 | Gaming Cards |
+| Pokémon Perfect Order Elite Trainer Box | \$64.99 | 5 | Gaming Cards |
+| Paldean Fates Booster Pack | \$5.99 | 10 | Gaming Cards |
+| Twilight Masquerade Booster Box | \$164.99 | 1 | Gaming Cards |
+| Pokémon 151 Elite Trainer Box | \$59.99 | 1 | Gaming Cards |
+| Card Binder | \$24.99 | 2 | Accessories |
+| PSA 10 Pikachu | \$499.99 | 1 | Collectibles |
+| Charizard ex Card | \$149.99 | 1 | Gaming Cards |
+| Surging Sparks Elite Trainer Box | \$54.99 | 1 | Gaming Cards |
+| Scarlet & Violet Booster Pack | \$5.99 | 1 | Gaming Cards |
+
+# Product Information Evidence
+
+The screenshots below show the product pages from my Shopify store. Each screenshot includes the product title, description, price, product image, inventory information, and additional product details such as category, vendor, or product type.
+
+## Pokémon Destined Rivals Team Rocket Mewtwo ex Raw Single Card
+
+This raw single card features Team Rocket's Mewtwo ex from the Destined Rivals expansion. It is an excellent collectible for Pokémon TCG enthusiasts.
+
+![](images/clipboard-557423528.jpeg)
+
+------------------------------------------------------------------------
+
+## Pokémon Destined Rivals Elite Trainer Box
+
+The Destined Rivals Elite Trainer Box includes booster packs, card sleeves, energy cards, dice, and accessories designed for collectors and competitive players.
+
+![](images/clipboard-320849662.jpeg)
+
+------------------------------------------------------------------------
+
+## Pokémon Pikachu Surging Sparks ex Raw Single Card
+
+This Pikachu ex card from the Surging Sparks expansion is a great collectible for Pokémon fans and an exciting addition to any trading card collection.
+
+![](images/clipboard-2501392375.jpeg)
+
+------------------------------------------------------------------------
+
+## Pokémon Perfect Order Elite Trainer Box
+
+The Perfect Order Elite Trainer Box includes booster packs and premium accessories that help collectors and players expand their Pokémon TCG collection.
+
+![](images/clipboard-31308051.jpeg)
+
+------------------------------------------------------------------------
+
+## Paldean Fates Booster Pack
+
+Open exciting new cards with a Paldean Fates Booster Pack. Every pack offers the chance to discover rare and powerful Pokémon.
+
+![](images/clipboard-713648604.jpeg)
+
+------------------------------------------------------------------------
+
+## Twilight Masquerade Booster Box
+
+Expand your Pokémon collection with the Twilight Masquerade Booster Box. It contains multiple booster packs and is ideal for collectors and players.
+
+![](images/clipboard-3658725566.jpeg)
+
+------------------------------------------------------------------------
+
+## Pokémon 151 Elite Trainer Box
+
+Celebrate the original Pokémon with the Pokémon 151 Elite Trainer Box. It includes booster packs and premium accessories inspired by the first generation.
+
+![](images/clipboard-2297238128.jpeg)
+
+------------------------------------------------------------------------
+
+## Card Binder
+
+Keep your Pokémon cards organized and protected with this durable card binder. It provides secure storage while making your collection easy to browse.
+
+![](images/clipboard-757495291.jpeg)
+
+------------------------------------------------------------------------
+
+## PSA 10 Pikachu
+
+This professionally graded PSA 10 Pikachu card represents excellent condition and is a premium collectible for serious Pokémon collectors.
+
+![](images/clipboard-2567725268.png)
+
+------------------------------------------------------------------------
+
+## Charizard ex Card
+
+Add the powerful Charizard ex to your collection. It is one of the most recognizable Pokémon cards and a favorite among collectors.
+
+![](images/clipboard-2362805481.jpeg)
+
+------------------------------------------------------------------------
+
+## Surging Sparks Elite Trainer Box
+
+The Surging Sparks Elite Trainer Box provides everything needed to begin or expand a Pokémon Trading Card Game collection.
+
+![](images/clipboard-1995923273.jpeg)
+
+------------------------------------------------------------------------
+
+## Scarlet & Violet Booster Pack
+
+Expand your Pokémon Trading Card Game collection with a Scarlet & Violet Booster Pack. Every pack contains random cards with the chance to pull exciting rare Pokémon.
+
+![](images/clipboard-3945458869.jpeg)
+
+# Assortment Strategy Reflection
+
+The assortment for Juanito's Card Vault was created to appeal to Pokémon Trading Card Game collectors and players. The catalog includes a combination of raw single cards, graded collectible cards, booster packs, Elite Trainer Boxes, booster boxes, and accessories such as a card binder. Offering products at different price points gives customers more choices while keeping the overall theme focused on Pokémon collectibles. This assortment creates a complete shopping experience for both new collectors and experienced hobbyists.
+
+# CPP Farm Store Application Reflection
+
+Although my Shopify practice store focuses on Pokémon Trading Card Game products, the same product catalog principles can be applied to CPP Farm Store. Each product should have a clear title, informative description, accurate price, quality image, and current inventory information. Organizing products into categories makes it easier for customers to browse the store and compare products. A well-designed product catalog improves the shopping experience and helps customers make informed purchasing decisions.
+
+# Key Features of My Product Catalog
+
+The product catalog includes:
+
+-   12 products
+-   Clear product titles
+-   Customer-friendly descriptions
+-   Product pricing
+-   Product images
+-   Inventory tracking
+-   Organized product categories
+-   Shopify product management
+
+# Screenshots
+
+![](images/Screenshot 2026-07-05 182635.png)
+
+# Appendix
+
+## GitHub Repository
+
+## GitHub Pages Website
