@@ -1,0 +1,98 @@
+---
+title: "ITP-Shopify Store - Assignment 4 - Collections and Navigation"
+author: "Juan De La Cruz-Calderon"
+date: today
+format:
+  html:
+    toc: true
+    toc-depth: 4
+    toc-expand: 2
+    number-sections: true
+    theme: darkly
+    code-link: true
+    code-tools: true
+    code-overflow: wrap
+    embed-resources: true
+editor: visual
+execute:
+  echo: false
+  warning: false
+  message: false
+  freeze: auto
+---
+
+# Introduction
+
+Juanito's Card Vault is a Shopify prototype store designed for Pokémon Trading Card Game enthusiasts. The purpose of this assignment was to organize products into logical collections and improve the store's navigation so customers can browse products more efficiently. Effective collections and navigation are essential in e-commerce because they improve product discovery, reduce customer frustration, and create a better overall shopping experience.
+
+# Collections and Categories
+
+To improve product organization, I created the following collections within my Shopify store:
+
+-   Booster Packs
+-   Elite Trainer Boxes (ETBs)
+-   Single Cards
+-   Accessories
+
+Each collection groups together similar products, making it easier for customers to browse items based on what they are looking for instead of searching through the entire catalog.
+
+::: callout-note
+## Store Organization
+
+Organizing products into collections helps create a more user-friendly shopping experience by allowing customers to browse related products in one place.
+:::
+
+# Navigation Menu
+
+The main navigation menu was updated to provide customers with quick access to the store's major sections. The menu includes links to the Home page, Catalog, Contact page, and collection pages. This layout provides a simple and organized navigation structure that helps visitors move throughout the store without unnecessary clicks.
+
+> A clear navigation menu is one of the most important features of an online store because it allows customers to quickly locate products and explore different categories.
+
+# Screenshots
+
+## Shopify Admin Collections
+
+![](images/Screenshot 2026-07-16 190549.png)
+
+## Collection Pages
+
+![](images/Screenshot 2026-07-16 191554.png)
+
+## Main Navigation Menu
+
+![](images/Screenshot 2026-07-16 190658.png)
+
+# Merchandising Logic Explanation
+
+I organized Juanito's Card Vault into collections based on the way Pokémon card collectors typically shop online. Customers searching for sealed products can browse Booster Packs or Elite Trainer Boxes, while collectors looking for specific cards can visit the Single Cards collection. Accessories were separated into their own category to help customers easily find items that protect or organize their collections. This merchandising strategy creates a logical shopping experience while making the store feel more organized and professional.
+
+# Customer Experience Explanation
+
+The navigation structure helps customers shop more efficiently by providing direct access to the store's major product categories. Instead of scrolling through every available product, customers can quickly select the category that best matches what they are looking for. This reduces the time needed to locate products, improves the browsing experience, and encourages customers to continue exploring additional items throughout the store.
+
+# CPP Farm Store Application Reflection
+
+The same organizational strategy used for Juanito's Card Vault could also benefit the CPP Farm Store. Instead of displaying every product in one large catalog, the farm store could organize its online inventory into categories such as Fresh Produce, Dairy Products, Pantry Items, Seasonal Products, and Gift Bundles. Creating clear product collections and an easy-to-use navigation menu would improve the customer experience by helping shoppers quickly locate products while showcasing the variety of items offered by the farm store.
+
+# Product Collections Summary
+
+| Collection | Example Products | Purpose |
+|-----------------------|-------------------------------|------------------|
+| Booster Packs | Scarlet & Violet Booster Packs | Sealed products for collectors and players |
+| Elite Trainer Boxes | Destined Rivals ETB | Premium boxed products |
+| Single Cards | Individual Pokémon Cards | Customers searching for specific cards |
+| Accessories | Card Binder, Sleeves | Products used to protect and organize collections |
+
+# Conclusion
+
+Creating collections and improving the navigation menu made Juanito's Card Vault easier to browse and better organized from a customer's perspective. Well-designed collections help customers locate products more quickly, while a simple navigation structure improves the overall shopping experience. These same e-commerce principles can also be applied to the CPP Farm Store to improve product discovery and create a more user-friendly online shopping experience.
+
+# Appendix
+
+## GitHub Repository
+
+<https://github.com/Juan-De-La-1999/IBM-6300>\
+
+## GitHub Pages Website
+
+<https://rpubs.com/Juand2417/1447605>
