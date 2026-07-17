@@ -1,0 +1,122 @@
+---
+title: "OACP-W06 - Shopify to Google Merchant Center Connection Lab"
+author: "Juan De La Cruz-Calderon"
+date: today
+format:
+  html:
+    toc: true
+    toc-depth: 4
+    toc-expand: 2
+    number-sections: true
+    theme: darkly
+    code-link: true
+    code-tools: true
+    code-overflow: wrap
+    embed-resources: true
+editor: visual
+execute:
+  echo: false
+  warning: false
+  message: false
+  freeze: auto
+---
+
+# Introduction
+
+For this assignment, I used my Shopify practice store, **Juanito's Card Vault**, to explore the process of connecting Shopify with Google Merchant Center using the Google & YouTube sales channel. Juanito's Card Vault is a prototype Pokémon Trading Card Game store that offers products such as booster packs, Elite Trainer Boxes, single cards, and accessories.
+
+The purpose of this assignment was to understand how Google Merchant Center connects with Shopify, how product information is synchronized, and what requirements retailers must meet before products become eligible for Google Shopping listings and advertisements. Rather than focusing on receiving Google approval, this assignment focuses on documenting the setup process, identifying any barriers encountered, and evaluating what improvements would be needed before launching a real online store.
+
+# Shopify Practice Store Overview
+
+Before attempting the Google Merchant Center connection, I prepared my Shopify store by ensuring that it included product pages with titles, descriptions, images, pricing, and inventory information. I also created an About page, Contact page, Shipping Policy, Return Policy, and Terms of Service page to improve the store's credibility and customer experience. In addition, I organized the products into collections and created a navigation menu to make the store easier to browse.
+
+::: callout-note
+## Store Readiness
+
+Preparing the Shopify store before connecting to Google Merchant Center helps ensure that product information, customer policies, and store details are available for Google's review process.
+:::
+
+# Google Merchant Center Connection Attempt
+
+I connected my Shopify store to the Google & YouTube sales channel and successfully signed into my Google account. During the setup process, I entered the required business information and followed the prompts to begin connecting the store with Google Merchant Center.
+
+Although the connection process was completed successfully, I encountered an issue when Shopify attempted to synchronize my products with Google Merchant Center. The connection itself was established, but the products were unable to sync successfully due to a synchronization error. This demonstrated that connecting a store is only one part of the process, and additional requirements must often be completed before products can become eligible for Google Shopping.
+
+# Connection Attempt Evidence
+
+## Google & YouTube Sales Channel
+
+![](images/Screenshot 2026-07-16 204226.png)
+
+## Google Account Connection
+
+![](images/Screenshot 2026-07-16 204246.png)
+
+## Google Merchant Center Setup
+
+![](images/Screenshot 2026-07-16 204342-01.png)
+
+## Business Information
+
+![](images/Screenshot 2026-07-16 204446-01.png)
+
+## Product Sync Error
+
+![](images/Screenshot 2026-07-16 204425-01.png)
+
+# Product Sync or Product Listing Status
+
+The Google Merchant Center connection was successfully established between Shopify and my Google account. However, the products did not successfully synchronize with Google Merchant Center. During the synchronization process, an error message appeared indicating that the products could not be synced.
+
+Because the synchronization was unsuccessful, my products were not approved or published to Google Merchant Center. This experience demonstrated that having products available in Shopify does not automatically make them eligible for Google Shopping. Product synchronization depends on meeting Google's requirements for product data, store information, website verification, and Merchant Center readiness.
+
+While the products were not successfully synchronized, the setup process provided valuable insight into how Google evaluates product catalogs before allowing them to appear in Google Shopping.
+
+# Setup Barriers and Warnings
+
+During the connection process, the primary issue encountered was a product synchronization error that prevented the Shopify catalog from being uploaded to Google Merchant Center successfully.
+
+Additional setup requirements became apparent throughout the process. Google Merchant Center requires complete business information, accurate product data, clear customer policies, and proper website verification before products can be approved. Retailers must also ensure that product titles, descriptions, images, pricing, availability, and product categories meet Google's quality standards.
+
+Although my Shopify store included many of these requirements, the synchronization error demonstrated that additional configuration or verification would still be necessary before products could be successfully listed on Google Shopping.
+
+# Fixes Needed Before Launch
+
+Before Juanito's Card Vault could realistically use Google Merchant Center and Google Shopping Ads, several improvements would likely be required. First, the product synchronization issue would need to be resolved so that products can successfully upload to Google Merchant Center. The website should also be fully verified, and all business information should be complete and accurate.
+
+In addition, every product should include detailed descriptions, high-quality images, accurate pricing, inventory availability, and the appropriate Google product category. Shipping and return policies should be fully configured within Google Merchant Center, and any missing product identifiers should be added when applicable. Completing these steps would improve the likelihood of product approval and ensure that customers receive accurate product information through Google Shopping.
+
+# CPP Farm Store Reflection
+
+Attempting to connect my Shopify store to Google Merchant Center demonstrated that preparing an online store involves much more than simply uploading products. Retailers must ensure that their store is complete, trustworthy, and meets Google's quality standards before products can be approved for Google Shopping. Although I was able to connect my Shopify store successfully, the product synchronization error showed that additional technical requirements and product information are necessary before products can appear on Google's platform.
+
+CPP Farm Store should carefully prepare its Shopify store before attempting to connect to Google Merchant Center. This includes creating detailed product titles and descriptions, uploading high-quality product photographs, organizing products into appropriate categories, and maintaining accurate pricing and inventory information. The farm store should also publish clear shipping policies, return policies, contact information, and business details to improve customer confidence and satisfy Google's requirements.
+
+Another important lesson from this assignment is that product quality extends beyond the physical product itself. Google evaluates the quality and completeness of product data, website credibility, and overall shopping experience before allowing products to be listed. CPP Farm Store should regularly review its product catalog to ensure information remains accurate and complete while resolving any warnings identified within Google Merchant Center.
+
+Overall, this assignment demonstrated that Google Merchant Center is an important tool for expanding product visibility through Google Shopping, but success depends on careful preparation. By investing time in product data quality, store credibility, and technical readiness, CPP Farm Store would be in a much stronger position to successfully launch Google Shopping Ads and reach a larger online audience.
+
+# Conclusion
+
+This assignment provided valuable experience with the Google Merchant Center setup process and demonstrated the importance of preparing a Shopify store before launching products through Google Shopping. Although my products did not successfully synchronize because of a product sync error, the experience highlighted many of the technical and business requirements needed for a successful product listing. Understanding these requirements will help retailers such as CPP Farm Store better prepare their online stores for future digital marketing and e-commerce initiatives.
+
+# Appendix
+
+## GitHub Repository
+
+<https://github.com/Juan-De-La-1999/IBM-6300>
+
+## GitHub Pages
+
+<https://rpubs.com/Juand2417/1447611>
+
+------------------------------------------------------------------------
+
+### Screenshots Included
+
+-   Google & YouTube Sales Channel
+-   Google Account Connection
+-   Merchant Center Setup
+-   Business Information
+-   Product Sync Error
