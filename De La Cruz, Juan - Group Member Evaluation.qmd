@@ -1,0 +1,65 @@
+---
+title: "Group Member Evaluation"
+author: "Juan De La Cruz-Calderon"
+date: today
+format:
+  html:
+    toc: true
+    toc-depth: 2
+    number-sections: true
+    theme: darkly
+    code-link: true
+    code-tools: true
+    code-overflow: wrap
+    embed-resources: true
+editor: visual
+execute:
+  echo: false
+  warning: false
+  message: false
+---
+
+# Group Information
+
+## Course Project
+
+**Project:** CPP Farm Store Shopify Project
+
+This evaluation reflects each group member's contribution throughout the semester. Every team member actively participated in the project, completed their assigned responsibilities, and collaborated during both in-class and outside-of-class meetings.
+
+# Group Member Evaluation
+
+| Team Member              | Contribution |   MVP   |
+|:-------------------------|:------------:|:-------:|
+| Juan De La Cruz-Calderon |     100%     |   No    |
+| Bhamini Raghuram Pillai  |     100%     |   No    |
+| Daisy Hernandez          |     100%     |   No    |
+| Kayla Cortez             |     100%     | **Yes** |
+| Michelle Diaz            |     100%     |   No    |
+| Rosarie Maramag          |     100%     |   No    |
+
+# Team Contributions
+
+Every member of our team contributed equally throughout the project and consistently completed their assigned responsibilities. We communicated effectively, shared ideas, and supported one another on every assignment. Throughout the semester, everyone remained engaged during meetings and worked together to ensure that assignments were completed accurately and submitted on time.
+
+For the Shopify portion of the project, our team regularly met after class to collaborate on the store's design, organization, and overall customer experience. Rather than working independently, we discussed different ideas together and combined our suggestions to build a Shopify store that reflected our group's vision. This collaborative approach allowed everyone to contribute equally while improving the overall quality of the project.
+
+# MVP Recognition
+
+I selected **Kayla Cortez** as the Most Valuable Player (MVP) because she consistently demonstrated strong leadership throughout the semester. Kayla took the initiative in organizing the group, communicating deadlines, assigning responsibilities, and creating the Word document templates for each assignment. Her organization and communication helped keep the team on schedule while ensuring that every member had an opportunity to contribute equally. Although everyone worked hard and contributed to the project's success, Kayla's leadership played an important role in keeping the group organized and moving forward.
+
+# Reflection
+
+Working on this project reinforced the importance of communication, teamwork, and collaboration when completing a long-term group assignment. Every member remained committed to the project's success and contributed equally throughout the semester. By working together, sharing responsibilities, and supporting one another, our team was able to complete each assignment efficiently while producing high-quality work. Overall, this project was a positive experience that demonstrated the value of effective teamwork in both academic and professional settings.
+
+# Appendix
+
+## GitHub Repository
+
+<https://github.com/Juan-De-La-1999/IBM-6300>
+
+------------------------------------------------------------------------
+
+## GitHub Pages
+
+<https://rpubs.com/Juand2417/1447613>
