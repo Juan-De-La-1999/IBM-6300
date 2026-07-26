@@ -1,0 +1,63 @@
+---
+title: "Google Shopping Ads Certification Part 2: Retail Strategy, Campaign Types & Performance Max"
+author: "Juan De La Cruz-Calderon"
+date: today
+date-format: "MMMM D, YYYY"
+
+format:
+  html:
+    theme: darkly
+    toc: true
+    toc-depth: 3
+    number-sections: true
+    embed-resources: true
+    code-fold: false
+    smooth-scroll: true
+
+execute:
+  echo: false
+---
+
+# CPP Farm Store Application Reflection
+
+## What Retail Campaign Objective Would Make the Most Sense for CPP Farm Store?
+
+One of the main lessons I learned from the **Launch Your Retail Strategy** module is that every retail campaign should begin with a clear business objective. For CPP Farm Store, the most effective objective would be to increase both online product discovery and in-store traffic. While the Farm Store already serves students, faculty, staff, and local community members, many potential customers may not know about its wide variety of seasonal products, locally grown produce, baked goods, and campus merchandise. Creating a campaign that encourages customers to discover products online while motivating them to visit the Farm Store would support both ecommerce growth and in-person sales. This strategy would also help promote major seasonal events, such as the Pumpkin Festival, which attract large numbers of visitors throughout the year.
+
+## Which CPP Farm Store Products or Product Categories Should Be Prioritized in a Campaign?
+
+The **Launch Your Retail Strategy** module also emphasized that retailers should prioritize products that align with customer demand and business goals. For CPP Farm Store, the campaign should focus on seasonal products, fresh produce, baked goods, gift baskets, CPP-branded merchandise, and specialty food products. These categories represent some of the Farm Store's most recognizable offerings and provide opportunities to attract both new and returning customers. Seasonal promotions, especially during the Pumpkin Festival and holiday seasons, would allow the Farm Store to showcase products that customers are actively searching for while increasing awareness of other products available through the Shopify store.
+
+## Which Shopping Campaign Type or Performance Max Approach Seems Most Appropriate, and Why?
+
+After completing the **Identify the Right Shopping Campaign Type** and **Unlock the Power of Performance Max** modules, I believe that Performance Max would be the most effective campaign strategy for CPP Farm Store. Performance Max allows businesses to promote products across multiple Google channels, including Google Search, Shopping, YouTube, Gmail, Maps, and the Display Network using a single campaign. Since the Farm Store serves a diverse customer base, this approach would maximize product visibility while allowing Google's AI to automatically optimize bidding, placements, and audience targeting based on campaign goals. This would allow the Farm Store to reach customers throughout the entire shopping journey without managing multiple individual campaigns.
+
+## What Channels or Customer Touchpoints Should the Campaign Support?
+
+The Skillshop modules highlighted the importance of creating an omnichannel shopping experience by connecting customers through multiple touchpoints. For CPP Farm Store, the campaign should support Google Search, Google Shopping, YouTube, Google Maps, and the Shopify website. These channels would help customers discover products, compare prices, learn about seasonal promotions, and find directions to the Farm Store. In addition, supporting both online shopping and in-store visits creates a more convenient customer experience while helping the Farm Store build stronger relationships with its customers.
+
+## What KPIs Should CPP Farm Store Track to Evaluate Success?
+
+Another important lesson from the modules was the need to measure campaign performance using meaningful metrics. CPP Farm Store should monitor impressions, click-through rate (CTR), conversions, website traffic, return on ad spend (ROAS), cost per conversion, and store visits when available. These key performance indicators would provide valuable insights into customer engagement, campaign effectiveness, and overall return on investment. Tracking these metrics regularly would also help identify opportunities to improve future campaigns and make more informed marketing decisions.
+
+## How Can Your Group Apply What You Learned to the Campaign Plan, Creative Brief, or Dashboard Deliverables?
+
+The knowledge gained from these three Google Skillshop modules will directly support our group's Campaign Plan, Creative Brief, and Dashboard deliverables. We can develop a campaign strategy that prioritizes the Farm Store's most popular products, create creative assets that highlight seasonal promotions, and recommend using Performance Max to reach customers across multiple Google channels. We can also design a dashboard that tracks campaign performance through KPIs such as impressions, click-through rate, conversions, and return on ad spend. Overall, these modules reinforced that successful retail advertising depends on setting clear objectives, selecting the right campaign strategy, continuously optimizing performance, and making decisions based on data. Applying these concepts will help our group develop a more effective omnichannel marketing strategy for CPP Farm Store.
+
+# Google Skillshop Module Completion
+
+![](images/clipboard-2662323114.png)
+
+![](images/Screenshot 2026-07-26 120403.png)
+
+# Appendix
+
+## GitHub Repository
+
+**Repository Link:** <https://github.com/Juan-De-La-1999/IBM-6300>
+
+------------------------------------------------------------------------
+
+## GitHub Pages Website
+
+**Website Link:** <https://rpubs.com/Juand2417/1449171>
