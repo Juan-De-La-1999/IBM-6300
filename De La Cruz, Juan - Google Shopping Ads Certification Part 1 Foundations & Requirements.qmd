@@ -1,0 +1,63 @@
+---
+title: "Google Shopping Ads Certification Part 1: Foundations & Requirements"
+author: "Juan De La Cruz-Calderon"
+date: today
+format:
+  html:
+    theme: darkly
+    toc: true
+    toc-depth: 3
+    number-sections: true
+    embed-resources: true
+    code-fold: false
+execute:
+  echo: false
+---
+
+# CPP Farm Store Application Reflection
+
+## How Google Shopping Ads Can Help CPP Farm Store Reach Customers
+
+The Google Skillshop modules taught me that Google Shopping Ads help retailers connect with customers who are actively searching for products online. Unlike traditional search ads, Shopping Ads display important product information such as the product image, title, price, and store name before a customer even visits the website. For CPP Farm Store, this would increase product visibility and make it easier for potential customers to discover the store's offerings through Google Search. Shopping Ads could also support seasonal promotions, such as the Pumpkin Festival, gift baskets, fresh produce, and campus merchandise by reaching customers at the moment they are searching for similar products. This would help expand the Farm Store's reach beyond customers who already know about the business.
+
+## Which CPP Farm Store Customer Segment Would Benefit Most from Improved Online Product Discovery?
+
+The customer segment that would benefit most from improved online product discovery is local residents, Cal Poly Pomona students, faculty, staff, alumni, and visitors who may not be familiar with everything the Farm Store offers. From the Skillshop modules, I learned that Google helps retailers reach customers throughout the entire shopping journey by making products easier to discover. Many customers search online before deciding where to shop, so allowing them to view available products, prices, and promotions through Google Shopping Ads would make their shopping experience more convenient. Seasonal visitors attending events like the Pumpkin Festival could also discover products before arriving on campus, increasing the likelihood that they visit the Farm Store.
+
+## Product Information and Ecommerce Requirements for Google Shopping Ads
+
+One of the biggest lessons from the Skillshop modules was the importance of accurate product information. Before CPP Farm Store could successfully use Google Shopping Ads, it would need complete and up-to-date product titles, detailed descriptions, high-quality images, accurate pricing, product availability, and well-designed landing pages. The modules also explained that this information must remain consistent between the Shopify store and Google Merchant Center. Providing accurate product information not only improves ad performance but also creates a better customer experience by helping shoppers find the products they expect when they click on an advertisement.
+
+## Risks and Challenges Before Using Google Shopping Ads
+
+Although Google Shopping Ads provide many opportunities, the modules also highlighted several challenges retailers should consider. CPP Farm Store frequently offers seasonal and limited-quantity products, meaning inventory, pricing, and availability may change throughout the year. If product information is not updated regularly, customers could see inaccurate listings, leading to frustration and a poor shopping experience. In addition, the Farm Store would need to ensure that its product data meets Google Merchant Center requirements and that its landing pages provide a smooth shopping experience. Managing advertising costs and continuously monitoring campaign performance would also be important to maximize the return on investment.
+
+## Applying What I Learned to the CPP Farm Store Group Project
+
+The knowledge gained from these Skillshop modules will directly support our group's Shopify Mini-Store, Product Feed, and Retail Media Setup deliverables. When building our Shopify store, we can create clear product titles, write informative product descriptions, use high-quality images, and organize products in a way that improves the customer experience. We can also structure our product feed so it meets Google Merchant Center requirements and supports future Shopping Ads campaigns. Overall, these modules reinforced that successful Google Shopping Ads begin with accurate product information, a strong ecommerce experience, and a customer-focused strategy. Applying these best practices will help our group develop a more effective omnichannel marketing plan for CPP Farm Store.
+
+# Google Skillshop Module Completion
+
+Below is proof of completion for the three required Google Skillshop modules.
+
+![](images/clipboard-2028827343.png)
+
+![](images/clipboard-3316186146.png)
+
+# Appendix
+
+## GitHub Repository
+
+The complete Quarto project for this assignment is available on GitHub.
+
+**Repository Link:** <https://github.com/Juan-De-La-1999/IBM-6300>\
+
+------------------------------------------------------------------------
+
+## GitHub Pages Website
+
+The published HTML version of this report can be viewed below.
+
+**Website Link:** <https://rpubs.com/Juand2417/1449164>\
+
+------------------------------------------------------------------------
