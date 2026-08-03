@@ -1,0 +1,110 @@
+---
+title: "Shopify Store Assignment 6: Checkout, Policies, and Trust Signals"
+author: "Juan De La Cruz-Calderon"
+date: "2026-08-02"
+format:
+  html:
+    theme: darkly
+    toc: true
+    toc-location: left
+    toc-depth: 3
+    number-sections: true
+    smooth-scroll: true
+    embed-resources: true
+    code-fold: true
+    code-tools: true
+    link-external-newwindow: true
+execute:
+  echo: true
+  warning: false
+  message: false
+editor: visual
+---
+
+# Introduction
+
+This report reviews the checkout settings, store policies, and trust-building features created for **Juanito's Card Vault**, a Shopify practice store specializing in Pokémon trading cards and collectible products. The purpose of this assignment was to evaluate the customer checkout experience and develop important store policies that help customers feel informed and confident before making a purchase. These include shipping and return information, a privacy policy, contact information, and reflections on how trust signals influence customer confidence. The report also discusses how these same practices could improve the online shopping experience for the CPP Farm Store.
+
+------------------------------------------------------------------------
+
+# Checkout Review
+
+## Checkout Configuration
+
+I reviewed the Shopify checkout process to ensure customers could successfully move from the shopping cart to checkout. Although this practice store is not connected to a live payment gateway, the checkout process allows customers to enter their contact information, shipping address, and select from available shipping options before reviewing their order summary. Reviewing these settings provided a better understanding of how Shopify organizes the checkout experience and how a clear checkout process contributes to customer confidence.
+
+### Screenshot
+
+![](images/Screenshot 2026-08-02 183017.png)
+
+------------------------------------------------------------------------
+
+# Shipping and Return Policy
+
+To provide customers with clear expectations before purchasing, I created a dedicated **Shipping & Return Policy** page for Juanito's Card Vault.
+
+The shipping policy explains that most orders are processed within **1–2 business days** after payment has been received. Customers receive tracking information once their order has shipped, when available. Delivery times may vary depending on the customer's location and the selected shipping method, and while every effort is made to ensure timely delivery, delays caused by shipping carriers or weather conditions are outside the store's control.
+
+The return policy explains that customers should contact the store within **7 days** if they receive an incorrect or damaged item. Because Pokémon trading cards and sealed products are collectible items, all opened booster packs, Elite Trainer Boxes, and single cards are considered final sale. Unopened products may qualify for a return within **14 days** if they remain sealed and in their original condition. Customers are responsible for return shipping costs unless the return is the result of an error made by the store.
+
+### Screenshot
+
+![](images/Screenshot 2026-08-02 183618.png)
+
+------------------------------------------------------------------------
+
+# Privacy Policy
+
+I also created a dedicated **Privacy Policy** page to explain how customer information is collected and used.
+
+The policy explains that Juanito's Card Vault values customer privacy and collects only the information necessary to process orders, improve the shopping experience, and communicate important updates. Customer information is protected and is never sold or shared with third parties for marketing purposes. By clearly explaining how personal information is handled, the policy helps customers better understand how their data is protected while shopping on the website.
+
+### Screenshot
+
+![](images/Screenshot 2026-08-02 183915.png)
+
+------------------------------------------------------------------------
+
+# Contact Information
+
+To improve customer support and strengthen trust, I created a dedicated **Contact Us** page where customers can easily reach the business.
+
+The page includes a contact form that allows customers to submit their name, email address, phone number, and any questions or comments they may have. The introduction encourages customers to reach out for assistance with products, orders, or general inquiries and reassures them that responses will be provided as soon as possible. Making it easy for customers to contact the business demonstrates transparency and helps create a more positive shopping experience.
+
+### Screenshot
+
+![](images/Screenshot 2026-08-02 183944.png)
+
+------------------------------------------------------------------------
+
+# Trust Signals Reflection
+
+Providing customers with clear store policies and accessible contact information plays an important role in building trust. Before completing an online purchase, many shoppers want to understand how shipping works, whether returns are accepted, how their personal information will be used, and how they can contact the business if they have questions. By creating dedicated pages for shipping, returns, privacy, and customer support, Juanito's Card Vault presents itself as a more professional and reliable online store. These trust signals help reduce uncertainty during checkout, improve the overall customer experience, and encourage customers to feel more confident when making a purchase.
+
+------------------------------------------------------------------------
+
+# CPP Farm Store Application Reflection
+
+These same trust-building features would be especially valuable for the CPP Farm Store because many customers may be purchasing products for the first time or learning about the business through its website and social media channels. Clearly communicating shipping or pickup information, return policies, privacy practices, and contact information would help establish credibility and reduce hesitation before completing a purchase. Since the Farm Store also promotes seasonal products and campus events throughout the year, maintaining accurate policies and providing responsive customer support would strengthen customer confidence, encourage repeat business, and improve the overall online shopping experience.
+
+------------------------------------------------------------------------
+
+# Conclusion
+
+This assignment demonstrated the importance of reviewing Shopify's checkout process and developing clear store policies that improve customer confidence. Creating dedicated pages for shipping, returns, privacy, and customer support helped make Juanito's Card Vault appear more professional while providing customers with the information they need before making a purchase. These trust-building features not only improve transparency but also contribute to a better overall customer experience. Applying these same principles to businesses such as the CPP Farm Store would help strengthen customer relationships and support continued growth in e-commerce.
+
+------------------------------------------------------------------------
+
+# Appendix
+
+## Published Website
+
+**GitHub Pages**
+
+<https://rpubs.com/Juand2417/1450789>
+
+## GitHub Repository
+
+**GitHub Repository**
+
+<https://github.com/Juan-De-La-1999/IBM-6300>

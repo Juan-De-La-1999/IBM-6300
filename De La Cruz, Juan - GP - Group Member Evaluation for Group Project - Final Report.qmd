@@ -1,0 +1,71 @@
+---
+title: "GP - Group Member Evaluation for Group Project - Final Report"
+author: "Juan De La Cruz"
+date: "August 2, 2026"
+format:
+  html:
+    theme: darkly
+    toc: true
+    toc-depth: 2
+    number-sections: true
+    code-fold: false
+    smooth-scroll: true
+    embed-resources: true
+    df-print: paged
+editor: visual
+---
+
+| Group Member            | Evaluation | MVP |
+|-------------------------|------------|-----|
+| Juan De La Cruz         | 100%       |     |
+| Bhamini Raghuram Pillai | 100%       |     |
+| Daisy Hernandez         | 100%       |     |
+| Kayla Cortez            | 100%       | ✅  |
+| Michelle Diaz           | 100%       |     |
+| Rosarie Maramag         | 100%       |     |
+
+# Contribution Comments
+
+### Juan De La Cruz
+
+I contributed throughout the entire project by collaborating with the team during the development of our Shopify store, providing marketing and design recommendations, assisting with assignments, and helping improve the final report. I actively participated in group meetings and worked closely with my teammates to ensure our final submission reflected everyone's ideas.
+
+### Bhamini Raghuram Pillai
+
+Bhamini consistently contributed to the project by completing assigned tasks on time and providing valuable feedback during our group discussions. She collaborated well with the team and helped ensure our work remained organized and accurate throughout the semester.
+
+### Daisy Hernandez
+
+Daisy was an active member of the team and always willing to help wherever needed. She completed her assigned work, participated during our meetings, and contributed ideas that improved both our Shopify store and our final report.
+
+### Kayla Cortez (MVP)
+
+Kayla served as the leader of our team and went above and beyond throughout the semester. She created the collaborative working documents, organized our assignments, delegated responsibilities based on each team member's strengths, and kept everyone on schedule. During the Shopify project, she also helped coordinate our meetings so everyone could contribute their ideas for the website's design, branding, and marketing strategy. Her organization, leadership, and communication were instrumental to our team's success, making her the clear MVP.
+
+### Michelle Diaz
+
+Michelle consistently completed her assigned responsibilities and collaborated effectively with the team. She contributed helpful suggestions during discussions and worked with everyone to improve both our Shopify website and written assignments.
+
+### Rosarie Maramag
+
+Rosarie was a dependable team member who actively participated throughout the project. She completed her assigned work, collaborated well during meetings, and contributed creative ideas that strengthened both our Shopify store and our final report.
+
+# Overall Team Evaluation
+
+Our team worked exceptionally well together throughout the entire semester. Every group member contributed equally, communicated effectively, and was always willing to help whenever someone had questions or needed assistance. During the development of our Shopify website, we regularly met outside of class to collaborate on the site's design, customer experience, branding, and marketing strategy. Everyone contributed creative ideas and worked together to build a final website that reflected our collective input.
+
+Kayla did an outstanding job leading the team by organizing our collaborative documents, assigning responsibilities based on each member's strengths, and ensuring we stayed on track throughout the project. Her leadership helped create a positive and productive team environment.
+
+Overall, I believe every member earned a **100% contribution score**, and I would gladly work with this team again on future projects.
+
+# Appendix
+
+## GitHub Repository
+
+<https://github.com/Juan-De-La-1999/IBM-6300>
+
+------------------------------------------------------------------------
+
+## GitHub Page Link
+
+<https://rpubs.com/Juand2417/1450801>

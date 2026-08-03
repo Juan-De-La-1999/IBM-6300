@@ -1,0 +1,115 @@
+---
+title: "ITP-W10: Shopify Store Testing and Analytics Review"
+author: "Juan De La Cruz"
+date: today
+format:
+  html:
+    theme: darkly
+    toc: true
+    toc-depth: 2
+    number-sections: true
+    embed-resources: true
+    code-fold: false
+editor: visual
+---
+
+# Introduction
+
+Before completing the final version of an online store, it is important to test the website from a customer's perspective. Store testing helps identify navigation issues, confusing page layouts, and opportunities to improve the overall shopping experience before customers interact with the store. Reviewing available analytics is equally important because it provides insight into how visitors engage with the website and highlights areas that may require further optimization.
+
+This report documents the customer journey testing process for **Juanitos Card Vault**, a Shopify store specializing in Pokémon Trading Card Game products. The report reviews the customer journey from the homepage through the checkout preview, presents screenshots from key stages of the shopping experience, identifies the store's current strengths, discusses areas for improvement, reviews available Shopify analytics, and outlines planned improvements before the final project submission.
+
+# Customer Journey Test
+
+To evaluate the overall shopping experience, I tested the store from the perspective of a first-time customer. The testing process followed the typical path a customer would take when browsing products and preparing to make a purchase.
+
+The customer journey included the following steps:
+
+-   Homepage
+-   Collection Page
+-   Product Page
+-   Shopping Cart
+-   Checkout Preview
+
+The testing began on the Juanitos Card Vault homepage, where I navigated through the main menu to browse the available Pokémon collections. From there, I selected a collection and opened an individual product page to review the product information, pricing, and images. I then added the product to the shopping cart and continued to the checkout preview without completing an actual transaction.
+
+Overall, the customer journey was smooth and easy to follow. Navigation between pages was straightforward, products were easy to locate, and the shopping cart correctly displayed the selected item before proceeding to checkout.
+
+# Screenshots of the Customer Journey
+
+## Stage 1: Homepage
+
+The homepage introduces visitors to Juanitos Card Vault through the main hero banner and navigation menu. It immediately communicates the store's focus on Pokémon Trading Card Game products and provides customers with easy access to browse the available collections.
+
+![](images/Screenshot 2026-08-02 172135.png)
+
+## Stage 2: Collection and Product Page
+
+After selecting a collection, customers can browse available products and view detailed product information. The product page displays pricing, product descriptions, and purchasing options before adding an item to the shopping cart.
+
+![](images/clipboard-1232016317.png)
+
+## Stage 3: Shopping Cart and Checkout Preview
+
+The final stage of testing involved reviewing the shopping cart and continuing to the checkout preview. This step confirmed that products were successfully added to the cart and that customers could proceed through the purchasing process without encountering any issues.
+
+![](images/Screenshot 2026-08-02 183017-01.png)
+
+# Store Strengths
+
+## Eye-Catching Homepage
+
+The homepage creates a strong first impression through its hero banner and overall design. It immediately communicates the purpose of the store while encouraging visitors to continue exploring the available Pokémon products.
+
+## Easy Navigation
+
+The website is organized in a simple and user-friendly manner. Customers can easily navigate between collections, product pages, the shopping cart, and checkout without confusion, creating a smooth shopping experience.
+
+## Wide Selection of Merchandise
+
+Juanitos Card Vault offers a variety of Pokémon Trading Card Game merchandise, including Elite Trainer Boxes, booster packs, and other collectibles. Offering multiple product categories allows customers to browse different options based on their interests.
+
+# Areas for Improvement
+
+## Add More Visual Content
+
+Although the homepage is visually appealing, other pages throughout the website could include additional graphics and promotional images. More visuals would create a more engaging and consistent shopping experience across the entire store.
+
+## Improve Product Pages
+
+The current product pages provide the necessary information, but they could be enhanced with additional product images, more detailed descriptions, featured product highlights, and customer reviews. These improvements would make the pages more visually appealing and help build customer confidence.
+
+## Add a Store Pickup Option
+
+Adding a local store pickup option would provide customers with greater flexibility when completing their purchase. This feature would improve convenience for customers who prefer to pick up their orders instead of having them shipped.
+
+# Analytics Review
+
+During testing, Shopify Live View analytics were reviewed to evaluate current store activity. At the time of testing, the dashboard showed **8 sessions**, indicating that visitors had successfully accessed and browsed the website. Although there were no active carts, checkout sessions, completed purchases, or sales at that moment, the analytics confirmed that customer traffic was reaching the store.
+
+Since Juanitos Card Vault is a practice Shopify store created for this course, these results are expected because real customer transactions are not being processed. As additional visitors access the website, Shopify analytics will provide valuable information about customer behavior, shopping patterns, and future conversion performance.
+
+![](images/Screenshot 2026-08-02 215237.png)
+
+# Improvement Plan
+
+Before submitting the final Shopify project, I plan to improve Juanitos Card Vault by adding more engaging visuals throughout the website, enhancing the design of individual product pages, and implementing a local store pickup option. I also plan to continue refining product descriptions and page layouts to create a more consistent and enjoyable customer experience. These improvements will help create a more professional storefront while increasing customer confidence and improving the overall shopping experience.
+
+# Conclusion
+
+Testing the customer journey confirmed that Juanitos Card Vault provides a smooth shopping experience from the homepage through the checkout preview. The website currently offers an attractive homepage, simple navigation, and a variety of Pokémon products that allow customers to browse with ease.
+
+The testing process also identified several opportunities for improvement, including adding more visual content, enhancing product pages, and offering a store pickup option. The Shopify analytics confirmed that visitors are successfully accessing the website, providing a foundation for monitoring future customer behavior. Implementing these improvements before the final submission will create a more polished, engaging, and professional online store.
+
+# Appendix
+
+## GitHub Repository
+
+**GitHub Repository:**
+
+<https://github.com/Juan-De-La-1999/IBM-6300>
+
+## Published GitHub Pages Website
+
+**GitHub Pages Website:\
+**<https://rpubs.com/Juand2417/1450828>
