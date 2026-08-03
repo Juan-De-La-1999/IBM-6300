@@ -1,0 +1,95 @@
+---
+title: "ITP-W07 Shopify Store - Assignment 5"
+subtitle: "Storefront Design and Customer Experience"
+author: "Juan De La Cruz-Calderon"
+date: today
+
+format:
+  html:
+    theme: darkly
+    toc: true
+    toc-depth: 3
+    toc-location: left
+    number-sections: true
+    embed-resources: true
+    code-fold: false
+
+execute:
+  echo: false
+  warning: false
+  message: false
+
+editor: visual
+---
+
+# Introduction
+
+The purpose of this assignment was to improve the design and overall customer experience of my Shopify practice store, **Juanitos Card Vault**. The store specializes in Pokémon trading cards, Elite Trainer Boxes, graded cards, and other collectible products. The improvements focused on creating a more visually appealing storefront, making navigation easier, and providing customers with a smoother shopping experience. These changes included enhancing the homepage, product pages, collection pages, and overall customer journey.
+
+# Homepage Improvement Evidence
+
+The homepage was redesigned to immediately communicate what Juanitos Card Vault sells through a customized hero image. The new homepage creates a stronger first impression by showcasing Pokémon products while helping establish trust with customers. A clear call-to-action button was also added to direct visitors to the product catalog, making it easier for customers to begin exploring the store.
+
+## Homepage Screenshot
+
+![](images/clipboard-592563336.png)
+
+# Product Page Improvement Evidence
+
+The product pages were improved by adding product variations that provide customers with more purchasing options and a better shopping experience.
+
+## Elite Trainer Box Product Page
+
+The Elite Trainer Box listing now includes a variation that allows customers to purchase the product either by itself or with a protective case. This gives collectors the flexibility to choose the option that best fits their needs.
+
+### Screenshot
+
+![](images/clipboard-2469673459.png)
+
+## Pokémon Card Product Page
+
+The Pokémon card listing was improved by allowing customers to choose between an ungraded card and an available graded version. Providing these options makes the product listing clearer and gives customers more flexibility when purchasing collectible cards.
+
+### Screenshot
+
+![](images/clipboard-2286294705.png)
+
+# Collection Page Improvement Evidence
+
+The Elite Trainer Box collection page was improved by adding a customized collection image & collections page description. The banner creates a more engaging shopping experience by clearly communicating what products are included in the collection while maintaining consistent branding throughout the website.
+
+## Collection Page Screenshot  ![](images/clipboard-2438934374.png)
+
+![](images/clipboard-3542948763.png)
+
+# Customer Experience Improvements
+
+## 1. Eye-Catching Storefront Images
+
+Customized images were added to both the homepage and the Elite Trainer Box collection page. These visuals immediately communicate what the business sells while creating a more professional and trustworthy appearance.
+
+## 2. Product Variations
+
+Product variations were introduced for both the Elite Trainer Box and Pokémon card listings. Customers can choose options such as adding a protective case to an Elite Trainer Box or selecting between graded and ungraded Pokémon cards, creating a more personalized shopping experience.
+
+## 3. Clear Call-to-Action and Navigation
+
+A call-to-action button was added to the homepage to guide customers directly to the product catalog. Combined with improved navigation throughout the store, customers can quickly find products while still being encouraged to explore additional collections.
+
+# Customer Journey Reflection
+
+When customers first visit Juanitos Card Vault, they are immediately introduced to the business through a customized homepage image that clearly communicates what the store sells. The homepage captures their attention and provides a clear call-to-action that directs them to the product catalog. From there, customers can browse different collections, explore individual product pages, review product details, and select options that best fit their preferences. This simple and organized journey helps customers quickly find what they are looking for while encouraging them to continue exploring the store.
+
+# CPP Farm Store Application Reflection
+
+One of the most important considerations for CPP Farm Store is creating a customer journey that is both simple and engaging. Visitors should immediately understand what the store offers, easily navigate between collections, and quickly locate the products they are looking for. At the same time, the storefront should encourage customers to continue exploring through high-quality visuals, seasonal promotions, featured collections, and clear calls to action. By focusing on intuitive navigation and a visually appealing design, CPP Farm Store can create a better online shopping experience that increases customer engagement and encourages future purchases.
+
+# Appendix
+
+## GitHub Pages Website
+
+<https://rpubs.com/Juand2417/1450780>
+
+## GitHub Repository
+
+<https://github.com/Juan-De-La-1999/IBM-6300>
