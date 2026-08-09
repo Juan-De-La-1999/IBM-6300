@@ -1,0 +1,87 @@
+---
+title: "Assignment 7: GA4 Setup and Shopify Integration"
+author: "Juan De La Cruz"
+date: today
+format:
+  html:
+    toc: true
+    embed-resources: true
+    code-fold: true
+    theme: darkly
+---
+
+# Introduction
+
+For this assignment, I set up Google Analytics 4 (GA4) for my Shopify practice store, **Juanitos Card Vault**. The purpose of the setup was to connect my e-commerce store with GA4 and verify that customer activity and website traffic could be measured. I also reviewed Shopify Analytics to compare the information available from both platforms. This report provides evidence of my GA4 web stream, Shopify connection attempt, analytics activity, technical observations, and a reflection on how CPP Farm Store could use analytics.
+
+# 1. GA4 Property and Web Stream Evidence
+
+I created a Google Analytics 4 web stream for my Shopify practice store. The screenshot below shows the web stream details for my store, including the Stream URL, Stream ID, and Measurement ID.
+
+**Measurement ID:** `G-17L8WEFTK9`
+
+![](images/Screenshot 2026-08-09 145752.png)
+
+The screenshot shows that **data collection has been active within the past 48 hours**. It also shows that Enhanced Measurement is enabled for the web stream. This provides evidence that my GA4 web stream was successfully created and is collecting data from my Shopify store.
+
+# 2. Shopify Connection Evidence
+
+I attempted to connect **Juanitos Card Vault** to Google Analytics 4 through Shopify. I used the Google integration available through Shopify and connected the Google account associated with my GA4 property. I then selected or verified the Google Analytics property and web stream associated with my store.
+
+![](images/clipboard-1797006037.png)
+
+The screenshot above documents my attempt to connect Shopify with my Google Analytics 4 property. After completing the connection steps, I checked Google Analytics and Shopify Analytics to determine whether activity from my store was being recorded.
+
+# 3. Analytics and Data Collection Evidence
+
+After completing the setup, I reviewed Google Analytics and Shopify Analytics to verify that customer activity was being recorded. Both platforms showed activity associated with Juanitos Card Vault, although they presented the information using different metrics and reporting views.
+
+## Google Analytics Evidence
+
+The screenshot below shows the Google Analytics dashboard for Juanitos Card Vault.
+
+![](images/Screenshot 2026-08-09 145419.png)
+
+During the reporting period shown in the screenshot, Google Analytics recorded **3 active users, 9 events, and 3 new users**. The Real-Time section showed 0 active users during the last 30 minutes at the exact time the screenshot was taken, but the other metrics show that GA4 had already received and recorded activity from my store.
+
+## Shopify Analytics Evidence
+
+I also reviewed the analytics information available directly through Shopify.
+
+![](images/Screenshot 2026-08-09 145539.png)
+
+The Shopify Analytics screenshot shows **20 desktop sessions** during the reporting period. This provides additional evidence that visitor activity was being recorded for Juanitos Card Vault.
+
+## Shopify Live View
+
+I also checked Shopify Live View to see recent customer activity.
+
+![](images/Screenshot 2026-08-09 145555.png)
+
+At the time of the screenshot, Shopify Live View showed **4 sessions**, with 0 active carts, 0 customers checking out, 0 purchases, and 0 orders. Since Juanitos Card Vault is a practice store, the absence of sales was not unexpected. The session information still provides evidence that Shopify was recording visitor activity.
+
+# 4. Customer Behavior and E-Commerce Analytics
+
+GA4 and Shopify Analytics can provide useful information about how customers interact with an e-commerce store. For Juanitos Card Vault, analytics could be used to examine page views, product interest, sessions, device types, and shopping activity. E-commerce events such as `view_item`, `add_to_cart`, `begin_checkout`, and `purchase` can also help show how customers move through the purchasing process. This information could eventually help determine which Pokémon card products receive the most attention and where improvements could be made to the shopping experience.
+
+# 5. Technical Issue Documentation
+
+I did not experience a major technical issue during the setup, but I noticed that analytics information did not always appear immediately or show the same numbers between Google Analytics and Shopify. To verify that the setup was working, I checked my GA4 web stream, confirmed that data collection was active, verified my Measurement ID, visited my Shopify storefront to generate activity, and reviewed both Google Analytics and Shopify Analytics. After doing this, I was able to see users, events, and sessions being recorded, which provided evidence that analytics data was being collected.
+
+# 6. CPP Farm Store Analytics Reflection
+
+CPP Farm Store could use GA4 and Shopify Analytics to better understand how customers interact with its online store. The store could track the number of visitors and sessions, where customers come from, which products receive the most views, and what devices customers use to access the website. It could also examine shopping behaviors such as viewing products, adding products to the cart, beginning checkout, and completing purchases. This information could help CPP Farm Store identify popular products, understand where customers may leave the purchasing process, evaluate its marketing efforts, and make improvements to its website and online shopping experience.
+
+# Conclusion
+
+This assignment gave me experience setting up and reviewing analytics for **Juanitos Card Vault**. My GA4 web stream showed that data collection was active, while Google Analytics recorded **3 active users, 9 events, and 3 new users** during the reporting period. Shopify Analytics also provided evidence of store sessions and customer activity. By reviewing both platforms, I was able to see how analytics can help an e-commerce store measure website traffic and better understand customer behavior.
+
+# Appendix
+
+## GitHub Pages
+
+<https://rpubs.com/Juand2417/1451816>
+
+## GitHub Repository
+
+<https://github.com/Juan-De-La-1999/IBM-6300>
