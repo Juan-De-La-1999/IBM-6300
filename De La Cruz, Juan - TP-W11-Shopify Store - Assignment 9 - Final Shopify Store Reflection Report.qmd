@@ -1,0 +1,245 @@
+---
+title: "ITP-W11-Shopify Store - Assignment 9 - Final Shopify Store Reflection Report"
+subtitle: "Juanito's Card Vault"
+author: "Juan De La Cruz"
+date: "2026-08-09"
+format:
+  html:
+    theme: darkly
+    embed-resources: true
+    toc: true
+---
+
+# 1. Store Overview
+
+For my Shopify project, I created an online Pokémon trading card store called **Juanito's Card Vault**. The purpose of the store is to provide Pokémon collectors and fans with a convenient place to browse and purchase trading cards, sealed products, and collecting accessories.
+
+My target customers are Pokémon fans and collectors who are interested in products at different price levels. Some customers may be new collectors looking for booster packs or accessories, while others may be more experienced collectors interested in individual cards, graded cards, or higher-value products.
+
+The product assortment in Juanito's Card Vault includes **single Pokémon cards, booster packs, Elite Trainer Boxes, graded cards, and accessories**. I organized the merchandise into separate collections so customers can easily find the type of product they are looking for.
+
+The store also includes products at different price points, which helps make the store appealing to customers with different budgets and collecting interests.
+
+**Live Shopify Store:**
+
+# 2. Final Store Evidence
+
+This section provides screenshots of the major parts of my completed Juanito's Card Vault Shopify store. The screenshots show the homepage, product catalog, collections, navigation, policy and contact information, and Google Analytics 4 integration.
+
+## Homepage
+
+The homepage of Juanito's Card Vault introduces customers to the store and displays featured Pokémon products. I designed the homepage so customers can quickly see examples of the merchandise available without having to immediately search through the entire catalog.
+
+The homepage helps create the first impression of the store and gives customers a starting point for browsing products.
+
+![](images/clipboard-1869951104.png)
+
+*Figure 1. Homepage of Juanito's Card Vault.*
+
+## Product Catalog / Product Page
+
+The product catalog gives customers the ability to browse the products available in the store. Each product includes important information such as the product name, image, price, and other product details.
+
+Creating individual product listings helped me understand how Shopify organizes product information and how customers interact with a product before deciding whether to purchase it.
+
+![](images/clipboard-3764364677.png)
+
+![](images/clipboard-2391561594.png)
+
+*Figure 2. Product catalog for Juanito's Card Vault.*
+
+## Collection Page
+
+I created collections to organize the merchandise into categories. My collections include **Accessories, Booster Packs, Elite Trainer Boxes, Graded Cards, and Single Cards**.
+
+Collections are especially useful for a Pokémon card store because customers may be looking for a specific type of product. For example, one customer may only be interested in sealed booster packs, while another customer may be looking for individual cards.
+
+Organizing the products into collections makes the store easier to browse and improves the overall shopping experience.
+
+![](images/clipboard-3419044457.png)
+
+*Figure 3. Product collections for Juanito's Card Vault.*
+
+## Navigation Menu
+
+I created a navigation menu so customers can move between the main sections of the website.
+
+The navigation includes pages such as **Home, Catalog, Contact, Collections, About Me, Shipping & Return Policy, and Privacy Policy**.
+
+This helped me understand that good e-commerce design is not only about displaying products. Customers also need to easily find important information about the business, policies, and ways to contact the store.
+
+![](images/clipboard-1342775561.png)
+
+*Figure 4. Navigation menu for Juanito's Card Vault.*
+
+## Policy and Contact Information
+
+I also created customer service and policy pages for the store. These pages provide information that can help customers feel more comfortable when shopping online.
+
+The Contact page gives customers a way to reach the store if they have a question. The Shipping & Return Policy explains important information about shipping, returns, and how different order situations would be handled.
+
+Adding these pages taught me that trust is an important part of e-commerce. Customers cannot physically visit an online store before purchasing, so clear policies and contact information can help make the business appear more reliable.
+
+![](images/clipboard-67675411.png)
+
+*Figure 5. Shipping and return policy for Juanito's Card Vault.*
+
+![](images/clipboard-266818946.png)
+
+*Figure 6. Contact page for Juanito's Card Vault.*
+
+## GA4 / Analytics Evidence
+
+I connected Juanito's Card Vault to **Google Analytics 4 (GA4)** so I could see how customer activity can be measured.
+
+At the time of my screenshot, GA4 showed **3 active users, 9 events, 3 new users, and 1 active user in the last 30 minutes**.
+
+Although this is a small amount of traffic because the store was created as a practice project, the dashboard showed that GA4 was successfully collecting information from my Shopify store.
+
+This helped me understand how retailers can track customer activity and use analytics to make better decisions.
+
+![](images/Screenshot%202026-08-09%20174207.png)
+
+*Figure 7. Google Analytics 4 dashboard connected to Juanito's Card Vault.*
+
+# 3. Retail Technology Reflection
+
+Building Juanito's Card Vault helped me understand how Shopify works as an e-commerce platform. Before completing this project, I mostly thought of an online store as a website where a company displays products. After working with Shopify, I learned that there are many different systems working together behind an e-commerce website.
+
+Shopify allows a retailer to manage products, prices, collections, website pages, navigation, policies, and the overall customer shopping experience from one platform. I learned that changes made in the Shopify admin can directly affect what customers see on the storefront.
+
+Another important thing I learned is how Shopify can support the customer journey. A customer may enter through the homepage, browse a collection, open a product page, add an item to the cart, and eventually complete checkout. Pages such as Contact, Shipping & Return Policy, and Privacy Policy also support the customer experience by providing important information.
+
+I also learned that Shopify can be connected with other retail technologies. Connecting Juanito's Card Vault to GA4 showed me that the storefront can also be used to collect customer behavior data.
+
+Overall, this project helped me see Shopify as more than just a website builder. It is a retail technology platform that combines merchandising, store management, customer experience, and analytics.
+
+# 4. Merchandising Reflection
+
+One of the most important things I learned about online merchandising was the importance of organization.
+
+Having good products is not enough if customers have difficulty finding them. For Juanito's Card Vault, I used collections to separate products into categories such as **Booster Packs, Elite Trainer Boxes, Single Cards, Graded Cards, and Accessories**.
+
+This makes the shopping experience more organized and allows customers to browse based on their interests.
+
+I also learned that product images, names, prices, and descriptions all affect how merchandise is presented online. Unlike a physical retail store, customers cannot hold or examine a product in person. The product page has to provide enough information to help the customer understand what they are buying.
+
+Another merchandising decision was offering products at different price points. This gives customers with different budgets more options.
+
+Overall, I learned that good e-commerce merchandising means making products easy to discover, understand, compare, and purchase.
+
+# 5. Analytics Reflection
+
+Connecting Google Analytics 4 to Juanito's Card Vault was one of the most useful parts of the project because it showed me how retailers can measure customer behavior instead of relying only on assumptions.
+
+My GA4 dashboard showed active users, new users, events, realtime activity, and device information. At the time I captured my analytics evidence, GA4 showed **3 active users, 9 events, and 3 new users**. The realtime section also showed **1 active user in the last 30 minutes**.
+
+The most important lesson I learned is that website traffic by itself does not tell the entire story. A retailer also needs to understand what customers do after they arrive on the website.
+
+Analytics can help answer questions such as which pages receive the most traffic, what products customers are viewing, where visitors are coming from, and which devices they are using.
+
+For a real business with more traffic, this information could be used to make decisions about merchandising, marketing, website design, and customer experience.
+
+Overall, this experience showed me how analytics can support better retail decisions by using actual customer behavior instead of only personal opinions.
+
+# 6. CPP Farm Store Application
+
+The skills I practiced while creating Juanito's Card Vault could also be applied to the **CPP Farm Store**. Shopify, GA4, and the e-commerce design principles I practiced could support the Farm Store in several specific ways.
+
+## 6.1 Organizing Products Through Shopify Collections
+
+The CPP Farm Store could use Shopify collections to organize products into categories that make sense to its customers.
+
+For example, products could be organized into categories such as fresh produce, dairy products, meat, snacks, beverages, plants, gifts, or seasonal products depending on what the Farm Store currently offers.
+
+My experience with Juanito's Card Vault showed me that collections reduce the amount of searching customers need to do. The same idea could make the CPP Farm Store website easier to navigate.
+
+## 6.2 Using GA4 to Understand Customer Behavior
+
+The CPP Farm Store could connect its online store to GA4 to understand how customers interact with the website.
+
+Analytics could show which pages and products receive the most attention, how customers arrive at the website, and which devices they use.
+
+For example, if analytics showed that a seasonal product page was receiving a lot of attention, the Farm Store could feature that product more prominently on the homepage.
+
+If most customers were using mobile devices, the Farm Store could also focus on improving the mobile shopping experience.
+
+This would allow the Farm Store to use actual customer behavior when making merchandising and marketing decisions.
+
+## 6.3 Connecting the Physical and Online Customer Experience
+
+Shopify could also help the CPP Farm Store create a stronger **omnichannel customer experience** by connecting the physical store with the online experience.
+
+Customers could visit the website before going to the physical store to learn about products, store information, seasonal offerings, or important policies.
+
+The website could also promote products that are available at the physical Farm Store and encourage customers to visit the location.
+
+This would create a stronger connection between digital browsing and the physical retail experience.
+
+## 6.4 Improving Customer Communication and Trust
+
+Another way Shopify could support the CPP Farm Store is by making customer information easier to find.
+
+The website could clearly display store hours, contact information, return policies, pickup information, product availability, and frequently asked questions.
+
+Providing this information online could reduce customer confusion and make customers feel more confident before visiting or purchasing.
+
+Overall, Shopify and GA4 could help the CPP Farm Store create a more organized digital storefront while also providing useful information for future retail and merchandising decisions.
+
+# 7. Final Self-Assessment
+
+The part of Juanito's Card Vault that I am most proud of is the **overall organization of the store and the product assortment**.
+
+I was able to turn the idea of a Pokémon card store into a functioning Shopify storefront with products, collections, navigation, contact information, store policies, and analytics.
+
+I especially like having separate product collections because they make the website feel more organized and make it easier for customers to browse different types of Pokémon products.
+
+If I had more time, I would improve the **visual design and customer experience of the homepage**.
+
+I would add a stronger branded hero section, more customized graphics, and additional sections for new releases, popular products, featured cards, and special promotions.
+
+I would also continue collecting GA4 data so I could use actual customer behavior to determine which products and collections should receive the most attention.
+
+Overall, this project gave me hands-on experience with e-commerce technology and helped me understand the connection between **retailing, merchandising, website design, customer experience, and analytics**.
+
+The biggest lesson I learned is that building an effective online store requires more than simply uploading products. The products need to be organized well, the website needs to be easy to navigate, customers need access to important information, and analytics can be used to understand and improve the shopping experience.
+
+# 8. Appendix: Project Links and Additional Evidence
+
+This appendix provides the important links associated with my final Shopify project and additional screenshots documenting the completed store.
+
+## Project Links
+
+### Live Shopify Store
+
+<https://gpwtri-ji.myshopify.com/>
+
+### GitHub Pages Published Report
+
+<https://rpubs.com/Juand2417/1451876>
+
+### GitHub Repository
+
+<https://github.com/Juan-De-La-1999/IBM-6300>
+
+## Screenshot Evidence Summary
+
+The following screenshots are included throughout this report as evidence of my completed Shopify project:
+
+![](images/Screenshot%202026-08-09%20174122.png)
+
+![](images/Screenshot%202026-08-09%20174207-01.png)
+
+![](images/Screenshot%202026-08-09%20174606.png)
+
+![](images/Screenshot%202026-08-09%20174655.png)
+
+![](images/Screenshot%202026-08-09%20174722.png)
+
+![](images/Screenshot%202026-08-09%20174754.png)
+
+![](images/Screenshot%202026-08-09%20174841.png)
+
+![](images/Screenshot%202026-08-09%20174915.png)
+
+![](images/Screenshot%202026-08-09%20174930.png)
